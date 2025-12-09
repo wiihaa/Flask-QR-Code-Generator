@@ -26,7 +26,7 @@ Visit [http://localhost:5001](http://localhost:5001) in your browser.
 ---
 
 ## 📦 Requirements
-```bash
+```
 Flask>=3.0.0
 qrcode[pil]>=7.4.2
 reportlab>=4.1.0
